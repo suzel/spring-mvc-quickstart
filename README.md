@@ -1,3 +1,3 @@
-# spring-mvc-quickstart-old
+# spring-mvc-quickstart
 
-
+Note : This repository is no longer maintained.
